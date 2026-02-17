@@ -1,5 +1,6 @@
 package org.example.dao;
 
+import org.example.config.HibernateUtil;
 import org.example.model.User;
 import org.hibernate.Session;
 import org.hibernate.Transaction;

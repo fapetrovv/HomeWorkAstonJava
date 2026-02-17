@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.dao.HibernateUtil;
+import org.example.config.HibernateUtil;
 import org.example.service.UserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
